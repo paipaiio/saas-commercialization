@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS Commercialization"
+  short_description: "Turn a product into an operable, revenue-ready SaaS"
+  default_prompt: "Use $saas-commercialization to turn my product into a commercially operable SaaS platform and produce the complete blueprint."
